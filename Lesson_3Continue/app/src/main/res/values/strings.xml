@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Autumn Workout</string>
+    <string name="date_text">Date: </string>
+    <string name="reps_count_text">Repeats count: </string>
+    <string name="weight_text">Weight:</string>
+    <string name="kg">kg.</string>
+    <string name="save">Save</string>
+    <string name="records_text">Records</string>
+    <string name="rowing_text">Rowing</string>
+    <string name="hugging_text">Hugging</string>
+    <string name="sleeping_text">Sleeping</string>
+</resources>
