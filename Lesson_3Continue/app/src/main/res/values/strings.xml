@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Autumn Workout</string>
+    <string name="date_text">Date: </string>
+    <string name="reps_count_text">Repeats count: </string>
+    <string name="weight_text">Weight:</string>
+    <string name="kg">kg.</string>
+    <string name="save">Save</string>
+    <string name="records_text">Records</string>
+    <string name="rowing_text">Rowing</string>
+    <string name="hugging_text">Hugging</string>
+    <string name="sleeping_text">Sleeping</string>
+    <string name="words_10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, consectetur.</string>
+    <string name="words_30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi consequatur debitis, deserunt ea harum illo, iure iusto laboriosam laborum magnam nemo, omnis perferendis quasi qui quidem quis similique temporibus voluptatem!</string>
+</resources>
